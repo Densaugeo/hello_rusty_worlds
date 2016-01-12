@@ -1,5 +1,8 @@
 # hello_rusty_worlds
+
 Hello World for Rust, including automated testing and documentation
+
+[![Build Status](https://travis-ci.org/Densaugeo/hello_rusty_worlds.svg?branch=master)](https://travis-ci.org/Densaugeo/hello_rusty_worlds)
 
 ## Working lib example
 
