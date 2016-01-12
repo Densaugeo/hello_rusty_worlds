@@ -2,6 +2,7 @@
 
 Hello World for Rust, including automated testing and documentation
 
+[![npm](https://img.shields.io/npm/l/express.svg)]()
 [![Build Status](https://travis-ci.org/Densaugeo/hello_rusty_worlds.svg?branch=master)](https://travis-ci.org/Densaugeo/hello_rusty_worlds)
 
 ## Working lib example
