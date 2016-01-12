@@ -1,9 +1,6 @@
-//! The 'hello_rusty_worlds' crate is a hello world crate with automated testing, documentation,
-//! continuous integration, a published crate, tested example code, implemented as a library
-//! with a command line tool. Includes examples of everything needed to make a new rust project
-//! that follows best practices.
-//!
-//! Supports Sol and all its planets, not just 'Hello (unspecified) world!'
+//! A hello world crate with automated testing, documentation,
+//! continuous integration, tested example code, implemented as a library
+//! with a command line tool. Supports Sol and all its planets, not just 'Hello (unspecified) world!'
 
 /// This function says hello to one of Sol's worlds, specified by a numeric argument
 ///
