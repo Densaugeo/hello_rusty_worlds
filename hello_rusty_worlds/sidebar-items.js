@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["hello_world","This function says hello to one of Sol's worlds, specified by a numeric argument"]]});
