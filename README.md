@@ -3,7 +3,7 @@
 A hello world crate with automated testing, documentation, continuous integration, tested example code, implemented as a library with a command line tool. Supports Sol and all its planets, not just 'Hello (unspecified) world!'
 
 [![npm](https://img.shields.io/npm/l/express.svg)]()
-[![Build Status](https://travis-ci.com/Densaugeo/hello_rusty_worlds.svg?branch=master)](https://travis-ci.com/github/Densaugeo/hello_rusty_worlds)
+[![Build Status](https://app.travis-ci.com/Densaugeo/hello_rusty_worlds.svg?branch=master)](https://app.travis-ci.com/github/Densaugeo/hello_rusty_worlds)
 
 ## How to use as a library
 
